@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class areaCirculo {
+public class AreaCirculo {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

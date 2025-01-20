@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class mediaBimestral {
+public class MediaBimestral {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

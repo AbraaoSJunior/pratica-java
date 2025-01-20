@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class conversorMedida {
+public class ConversorMedida {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class areaQuad {
+public class AreaQuad {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
